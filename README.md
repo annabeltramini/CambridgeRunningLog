@@ -5,4 +5,4 @@
 3. Map of cambridge getting colours
 
 
-![Cartoon Map](cambridge_map/cambridge_map_current.png)
+![Cartoon Map](cambridge_map_current.png)
